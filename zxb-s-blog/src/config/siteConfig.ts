@@ -43,10 +43,10 @@ export const siteConfig: SiteConfig = {
 	title: "Firefly",
 
 	// 站点副标题
-	subtitle: "聪明旅行家的第一个网站",
+	subtitle: "聪明冒险家的第一个网站",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://zxb-blog.netlify.app/",
 
 	// 站点描述
 	description:
