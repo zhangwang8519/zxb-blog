@@ -54,6 +54,42 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
+			{
+				name: "我不曾忘记",
+				artist: "花玲,张安琪,沐霏",
+				url: "/assets/music/花玲,张安琪,沐霏 - 我不曾忘记.mp3",
+				cover: "/assets/music/cover/我不曾忘记_109951168232666774..jpg",
+				lrc: "",
+			},
+			{
+                name: "在银河中孤独摇摆",
+				artist: "知更鸟,HOYO-MiX,Chevy",
+				url: "/assets/music/知更鸟,HOYO-MiX,Chevy - 在银河中孤独摇摆.mp3",
+				cover: "/assets/music/cover/崩坏星穹铁道-空气蛹 INSIDE_109951169585655912..jpg",
+				lrc: "",
+			},
+			{
+                name: "飞鼠进行曲",
+				artist: "HOYO-MiX",
+				url: "/assets/music/HOYO-MiX - 飞鼠进行曲 The Parade of Flying Squirrels.mp3",
+				cover: "/assets/music/cover/原神-珍珠之歌4 The Shimmering Voyage Vol. 4_1099511698..jpg",
+				lrc: "",
+			},
+			{
+                name: "飞鸟和蝉",
+				artist: "任然",
+				url: "/assets/music/任然 - 飞鸟和蝉.mp3",
+				cover: "/assets/music/cover/飞鸟和蝉_109951165114761150..jpg",
+				lrc: "",
+			},
+			{
+                name: "一路生花",
+				artist: "温奕心",
+				url: "/assets/music/温奕心 - 一路生花.mp3",
+				cover: "/assets/music/cover/一路生花_109951166902691754..jpg",
+				lrc: "",
+			},
+
 		],
 	},
 };

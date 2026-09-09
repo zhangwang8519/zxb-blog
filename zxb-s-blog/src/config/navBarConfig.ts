@@ -111,7 +111,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "QQ交流群",
-				url: "https://z.l6j.cn/nBQAxq",
+				url: "https://spoo.me/Ng5kI2M",
 				external: true,
 				icon: "fa7-brands:qq",
 			},
