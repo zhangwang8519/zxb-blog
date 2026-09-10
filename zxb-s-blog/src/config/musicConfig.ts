@@ -9,7 +9,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	showInSidebar: true,
 
 	// 使用方式："meting" 使用 Meting API，"local" 使用本地音乐列表
-	mode: "meting",
+	mode: "local",
 
 	// 默认音量 (0-1)
 	volume: 0.7,
@@ -59,14 +59,14 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				artist: "花玲,张安琪,沐霏",
 				url: "/assets/music/花玲,张安琪,沐霏 - 我不曾忘记.mp3",
 				cover: "/assets/music/cover/我不曾忘记_109951168232666774..jpg",
-				lrc: "",
+				lrc: "/assets/music/LRC/我不曾忘记.lrc",
 			},
 			{
                 name: "在银河中孤独摇摆",
 				artist: "知更鸟,HOYO-MiX,Chevy",
 				url: "/assets/music/知更鸟,HOYO-MiX,Chevy - 在银河中孤独摇摆.mp3",
 				cover: "/assets/music/cover/崩坏星穹铁道-空气蛹 INSIDE_109951169585655912..jpg",
-				lrc: "",
+				lrc: "/assets/music/LRC/在银河中孤独摇摆.lrc",
 			},
 			{
                 name: "飞鼠进行曲",
@@ -80,16 +80,43 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				artist: "任然",
 				url: "/assets/music/任然 - 飞鸟和蝉.mp3",
 				cover: "/assets/music/cover/飞鸟和蝉_109951165114761150..jpg",
-				lrc: "",
+				lrc: "/assets/music/LRC/飞鸟和蝉.lrc",
 			},
 			{
                 name: "一路生花",
 				artist: "温奕心",
 				url: "/assets/music/温奕心 - 一路生花.mp3",
 				cover: "/assets/music/cover/一路生花_109951166902691754..jpg",
-				lrc: "",
+				lrc: "/assets/music/LRC/一路生花.lrc",
 			},
-
+			{
+                name: "让风告诉你",
+				artist: "花玲&喵☆酱&宴宁&kinsen",
+				url: "/assets/music/让风告诉你-花玲&喵☆酱&宴宁&kinsen.mp3",
+				cover: "/assets/music/cover/让风告诉你.jpg",
+				lrc: "/assets/music/LRC/让风告诉你.lrc",
+			},
+             {
+                name: "使一颗心免于哀伤",
+				artist: "知更鸟,HOYO-MiX,Chevy",
+				url: "/assets/music/知更鸟,HOYO-MiX,Chevy - 使一颗心免于哀伤.mp3",
+				cover: "/assets/music/cover/崩坏星穹铁道-空气蛹 INSIDE_109951169585655912..jpg",
+				lrc: "/assets/music/LRC/使一颗心免于哀伤.lrc",
+			 },
+			 {
+                name: "ハレハレヤ（朗朗晴天）（翻自 v flower）",
+				artist: "猫瑾,貓貓神 ",
+				url: "/assets/music/猫瑾,貓貓神 - ハレハレヤ（朗朗晴天）（翻自 v flower）.mp3",
+				cover: "/assets/music/cover/ハレハレヤ（朗朗晴天）_109951164080199565..jpg",
+				lrc: "/assets/music/LRC/猫瑾,貓貓神 - ハレハレヤ（朗朗晴天）（翻自 v flower）.lrc",
+			 },
+			 {
+                name: "雨爱",
+				artist: "周星星 ",
+				url: "/assets/music/周星星 - 雨爱.mp3",
+				cover: "/assets/music/cover/雨爱_109951164962643372..jpg",
+				lrc: "/assets/music/LRC/雨爱.lrc",
+			 },
 		],
 	},
 };
