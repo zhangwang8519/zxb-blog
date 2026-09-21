@@ -92,7 +92,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
                 name: "让风告诉你",
 				artist: "花玲&喵☆酱&宴宁&kinsen",
-				url: "/assets/music/让风告诉你-花玲&喵☆酱&宴宁&kinsen.mp3",
+				url: "/assets/music/让风告诉你-花玲,喵酱,宴宁,kinsen.MP3",
 				cover: "/assets/music/cover/让风告诉你.jpg",
 				lrc: "/assets/music/LRC/让风告诉你.lrc",
 			},
