@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "聪明冒险家的第一个网站",
 
 	// 站点 URL
-	site_url: "https://zxb-blog.netlify.app/",
+	site_url: "https://www.zxb-blog.xyz",
 
 	// 站点描述
 	description:

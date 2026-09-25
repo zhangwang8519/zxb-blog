@@ -34,6 +34,14 @@ export const galleryConfig: GalleryConfig = {
 			password: "123456",
 			passwordHint: "示例密码123456",
 		},
+	    {
+			id: "原神-至冬",
+			name: "原神-至冬篇7.0",
+			description: "向至冬，向未来",
+			location: "原神",
+			date: "2026-09-25",
+			tags: ["原神", "至冬"],
+		},
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
